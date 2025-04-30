@@ -1,4 +1,4 @@
-🚀最后更新时间: 2025-04-30 23:58:02
+🚀最后更新时间: 2025-05-01 00:08:02
 
 **每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN**
 
@@ -22,6 +22,8 @@
 
 购买套餐时输入【fuuu.cloud】优惠码，可享7折优惠，折后低至8元/月。
 
+🎁 五一劳动节特惠活动：5月1日至5月20日期间，购买季套餐赠送月套餐，购买年套餐赠送季套餐。
+
 注：如果全部节点不可用，请先检查客户端是否最新版本。<br/>
   如果不是最新版本，请前往 Mikasa 官网下载最新版本。
 
@@ -32,13 +34,13 @@
 >🚀免费Clash订阅链接
 
 ```
-https://clashfreenode.com/feed/clash-20250430.yaml
+https://clashfreenode.com/feed/clash-20250501.yaml
 ```
 
 >🚀免费v2rayN订阅链接
 
 ```
-https://clashfreenode.com/feed/v2ray-20250430.txt 
+https://clashfreenode.com/feed/v2ray-20250501.txt 
 ```
 
 >🚀免费iOS小火箭订阅链接
